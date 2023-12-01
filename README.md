@@ -1,3 +1,5 @@
+Je ne suis pas un bot, je suis un homme.
+
 # lottery.aleo
 
 ## Run Guide
